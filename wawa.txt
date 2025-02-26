@@ -1,1 +1,5 @@
-hehehehe
+1. Git permet le contrôle de version, alors que GitHub permet d'héberger en ligne son projet Git
+2. Un Repository est l'endroit ou est stocké le projet, et contient un historique de modification
+3. Un commit est un point de sauvegarde du projet. Un push est l'envoie du Repository local vers le Repository distant. Le pull est le téléchargement du Repository distant et la mise à jour du Repository local
+4. Le fichier README.md contient toutes les informations nécessaires du projet, et s'affiche quand le Repository est visionné sur GitHub
+5. git clone https://github.com/USERNAME/REPOSITORY
